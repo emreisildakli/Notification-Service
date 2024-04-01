@@ -4,6 +4,7 @@ import com.patika.notificationservice.dto.enums.NotificationType;
 import lombok.*;
 
 @Getter
+@Setter
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
